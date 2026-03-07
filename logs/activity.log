@@ -7,3 +7,4 @@
 [2026-03-06T17:42:00.403Z] improve error code reference table
 [2026-03-06T17:52:42.497Z] configure auto-deploy for staging branch
 [2026-03-06T18:16:17.644Z] reorganize file structure for better discoverability
+[2026-03-07T05:55:16.268Z] add search with debounced input
