@@ -1,2 +1,3 @@
 [2026-03-09T08:37:48.074Z] add architecture decision records
 [2026-03-10T04:10:51.953Z] prevent duplicate entries in cache
+[2026-03-10T12:49:33.968Z] refactor database queries to use query builder
