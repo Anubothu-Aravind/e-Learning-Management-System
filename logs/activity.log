@@ -2,3 +2,4 @@
 [2026-03-10T04:10:51.953Z] prevent duplicate entries in cache
 [2026-03-10T12:49:33.968Z] refactor database queries to use query builder
 [2026-03-11T10:30:10.024Z] fix incorrect timestamp parsing for UTC dates
+[2026-03-11T12:55:10.536Z] normalize line endings to LF
