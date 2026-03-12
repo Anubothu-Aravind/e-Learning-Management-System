@@ -4,3 +4,4 @@
 [2026-03-11T10:30:10.024Z] fix incorrect timestamp parsing for UTC dates
 [2026-03-11T12:55:10.536Z] normalize line endings to LF
 [2026-03-11T16:19:02.369Z] improve error code reference table
+[2026-03-12T06:13:34.622Z] configure log rotation for production
