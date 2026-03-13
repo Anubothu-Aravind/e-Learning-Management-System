@@ -10,3 +10,4 @@
 [2026-03-13T13:20:38.245Z] add health check endpoint with detailed status
 [2026-03-13T13:30:57.502Z] implement graceful shutdown on SIGTERM
 [2026-03-13T16:07:11.406Z] patch race condition in async handler
+[2026-03-13T16:16:16.892Z] add usage examples to README
