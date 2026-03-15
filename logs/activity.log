@@ -14,3 +14,4 @@
 [2026-03-14T11:55:19.150Z] migrate from deprecated API to v2
 [2026-03-14T13:33:49.755Z] fix memory leak in event listener cleanup
 [2026-03-14T14:09:35.891Z] implement request caching with TTL support
+[2026-03-15T14:20:41.337Z] add snapshot tests for response formats
