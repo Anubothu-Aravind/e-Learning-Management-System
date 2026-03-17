@@ -1,3 +1,4 @@
 [2026-03-16T09:35:51.709Z] fix edge case when input array is empty
 [2026-03-16T10:33:52.601Z] document database migration process
 [2026-03-17T10:42:25.634Z] configure auto-deploy for staging branch
+[2026-03-17T11:50:40.520Z] move business logic out of controller
