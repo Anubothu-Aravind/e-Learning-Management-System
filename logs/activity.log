@@ -4,3 +4,4 @@
 [2026-03-17T11:50:40.520Z] move business logic out of controller
 [2026-03-17T13:43:20.453Z] fix CSS overflow issue on mobile viewport
 [2026-03-17T13:53:07.282Z] update changelog for v2.1 release
+[2026-03-18T03:59:38.707Z] enforce trailing commas in config
