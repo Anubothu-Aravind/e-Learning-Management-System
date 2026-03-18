@@ -6,3 +6,4 @@
 [2026-03-17T13:53:07.282Z] update changelog for v2.1 release
 [2026-03-18T03:59:38.707Z] enforce trailing commas in config
 [2026-03-18T05:56:44.979Z] split build and test stages for faster feedback
+[2026-03-18T15:56:57.933Z] clean up unused environment variables
