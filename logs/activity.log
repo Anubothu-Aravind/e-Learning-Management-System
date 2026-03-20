@@ -13,3 +13,4 @@
 [2026-03-19T12:14:38.099Z] correct off-by-one error in pagination logic
 [2026-03-19T14:23:22.451Z] switch from moment.js to native Date handling
 [2026-03-20T11:00:41.972Z] consolidate duplicate API call patterns
+[2026-03-20T11:36:16.934Z] mock external service calls in test suite
