@@ -18,3 +18,4 @@
 [2026-03-20T14:02:55.819Z] decouple logging from business logic
 [2026-03-21T07:44:52.724Z] handle undefined response from external API
 [2026-03-21T07:59:51.587Z] add usage examples to README
+[2026-03-21T11:26:25.152Z] simplify auth middleware chain
