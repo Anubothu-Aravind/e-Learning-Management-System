@@ -24,3 +24,4 @@
 [2026-03-21T16:24:39.709Z] add real-time status updates via SSE
 [2026-03-22T03:35:09.210Z] fix flaky test caused by timing dependency
 [2026-03-22T07:20:27.177Z] fix CSS overflow issue on mobile viewport
+[2026-03-22T08:22:00.786Z] add search with debounced input
