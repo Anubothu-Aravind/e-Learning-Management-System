@@ -26,3 +26,4 @@
 [2026-03-22T07:20:27.177Z] fix CSS overflow issue on mobile viewport
 [2026-03-22T08:22:00.786Z] add search with debounced input
 [2026-03-22T10:40:43.015Z] handle missing env variable gracefully
+[2026-03-22T11:30:57.474Z] fix broken redirect after authentication
