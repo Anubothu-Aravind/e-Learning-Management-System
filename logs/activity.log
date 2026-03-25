@@ -4,3 +4,4 @@
 [2026-03-24T11:05:26.084Z] handle missing env variable gracefully
 [2026-03-25T04:10:35.830Z] reorganize file structure for better discoverability
 [2026-03-25T07:46:34.379Z] fix flaky build caused by parallel test collision
+[2026-03-25T12:54:50.271Z] add request ID tracking for better debugging
