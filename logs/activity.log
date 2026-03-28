@@ -14,3 +14,4 @@
 [2026-03-28T05:23:53.102Z] sync package-lock after merge
 [2026-03-28T11:40:51.985Z] add health check endpoint with detailed status
 [2026-03-28T13:17:02.487Z] fix broken image paths in production build
+[2026-03-28T14:13:09.714Z] correct off-by-one error in pagination logic
