@@ -12,3 +12,4 @@
 [2026-04-02T13:07:58.068Z] add missing type definitions for third-party module
 [2026-04-03T04:07:12.796Z] implement connection pooling for database
 [2026-04-03T09:14:18.617Z] add contributing guidelines
+[2026-04-03T09:24:15.213Z] fix memory leak in event listener cleanup
