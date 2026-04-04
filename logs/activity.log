@@ -15,3 +15,4 @@
 [2026-04-03T09:24:15.213Z] fix memory leak in event listener cleanup
 [2026-04-03T12:18:35.713Z] fix incorrect timestamp parsing for UTC dates
 [2026-04-03T15:15:46.830Z] extract common utilities into shared helper
+[2026-04-04T06:19:00.660Z] normalize line endings to LF
