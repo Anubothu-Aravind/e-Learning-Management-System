@@ -18,3 +18,4 @@
 [2026-04-04T06:19:00.660Z] normalize line endings to LF
 [2026-04-04T10:05:39.599Z] improve test coverage for error handling paths
 [2026-04-04T15:59:09.701Z] move business logic out of controller
+[2026-04-05T08:15:17.312Z] add health check endpoint with detailed status
