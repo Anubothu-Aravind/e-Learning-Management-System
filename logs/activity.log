@@ -6,3 +6,4 @@
 [2026-05-01T08:49:42.544Z] resolve conflict between middleware handlers
 [2026-05-01T10:58:51.211Z] add fallback for browsers without WebSocket support
 [2026-05-01T11:28:49.009Z] fix test data setup for isolated test runs
+[2026-05-01T13:35:43.788Z] add load testing configuration
