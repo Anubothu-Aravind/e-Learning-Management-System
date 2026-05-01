@@ -3,3 +3,4 @@
 [2026-04-29T20:14:28.157Z] bump minor version for release prep
 [2026-05-01T06:00:25.411Z] add JSDoc comments to public API methods
 [2026-05-01T06:10:55.464Z] add rate limiting to public endpoints
+[2026-05-01T08:49:42.544Z] resolve conflict between middleware handlers
