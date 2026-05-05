@@ -5,3 +5,4 @@
 [2026-05-05T04:17:19.106Z] add rate limiting to public endpoints
 [2026-05-05T07:12:45.150Z] refactor error handling to use custom error classes
 [2026-05-05T09:12:47.007Z] implement graceful shutdown on SIGTERM
+[2026-05-05T12:34:51.598Z] add troubleshooting section to docs
