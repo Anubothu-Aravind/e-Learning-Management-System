@@ -7,3 +7,4 @@
 [2026-05-05T09:12:47.007Z] implement graceful shutdown on SIGTERM
 [2026-05-05T12:34:51.598Z] add troubleshooting section to docs
 [2026-05-06T12:47:40.778Z] update error messages to be more user-friendly
+[2026-05-06T13:25:15.106Z] add inline comments for complex algorithm
