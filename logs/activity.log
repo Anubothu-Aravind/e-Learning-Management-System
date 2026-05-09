@@ -14,3 +14,4 @@
 [2026-05-09T05:33:51.260Z] add Prometheus metrics endpoint
 [2026-05-09T08:21:33.681Z] set up environment config for staging deployment
 [2026-05-09T10:33:11.516Z] align object properties for readability
+[2026-05-09T14:11:40.212Z] switch from moment.js to native Date handling
