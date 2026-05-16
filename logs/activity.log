@@ -13,3 +13,4 @@
 [2026-05-15T10:16:36.416Z] clarify deployment steps in README
 [2026-05-15T12:54:40.918Z] remove unused packages from package.json
 [2026-05-16T06:22:20.956Z] add architecture decision records
+[2026-05-16T12:10:37.956Z] remove unused packages from package.json
