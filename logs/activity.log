@@ -16,3 +16,4 @@
 [2026-05-16T12:10:37.956Z] remove unused packages from package.json
 [2026-05-16T13:34:23.116Z] enforce trailing commas in config
 [2026-05-16T16:16:18.679Z] pin dependency versions for reproducible builds
+[2026-05-17T05:14:56.000Z] implement request caching with TTL support
