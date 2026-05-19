@@ -2,3 +2,4 @@
 [2026-05-18T10:44:52.779Z] add missing type definitions for third-party module
 [2026-05-19T09:03:11.980Z] fix incorrect status code for validation errors
 [2026-05-19T13:28:06.248Z] add snapshot tests for response formats
+[2026-05-19T14:11:13.226Z] add retry mechanism with exponential backoff
