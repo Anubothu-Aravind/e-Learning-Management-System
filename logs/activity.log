@@ -5,3 +5,4 @@
 [2026-05-19T14:11:13.226Z] add retry mechanism with exponential backoff
 [2026-05-20T09:28:01.518Z] support CSV and JSON export formats
 [2026-05-20T14:56:52.439Z] add environment-specific config files
+[2026-05-21T09:15:38.427Z] resolve null pointer in user validation
