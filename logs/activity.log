@@ -13,3 +13,4 @@
 [2026-05-22T11:40:08.768Z] add regression test for pagination bug
 [2026-05-22T15:17:12.646Z] enable parallel test execution in pipeline
 [2026-05-23T08:57:24.926Z] fix CSS overflow issue on mobile viewport
+[2026-05-24T12:42:14.029Z] update error messages to be more user-friendly
