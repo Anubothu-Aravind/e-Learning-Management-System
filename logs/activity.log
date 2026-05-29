@@ -9,3 +9,4 @@
 [2026-05-28T09:41:22.637Z] resolve null pointer in user validation
 [2026-05-28T11:15:45.559Z] update license headers for new year
 [2026-05-28T14:53:56.358Z] verify webhook delivery retry logic
+[2026-05-29T15:15:31.963Z] refactor database queries to use query builder
