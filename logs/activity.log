@@ -15,3 +15,4 @@
 [2026-05-30T11:40:19.501Z] resolve null pointer in user validation
 [2026-05-31T05:26:46.927Z] add lint check to pre-commit hook
 [2026-05-31T06:04:24.035Z] add troubleshooting section to docs
+[2026-05-31T16:04:05.036Z] add architecture decision records
