@@ -1,1 +1,2 @@
 [2026-06-01T10:58:37.979Z] correct off-by-one error in pagination logic
+[2026-06-01T12:51:04.115Z] add Prometheus metrics endpoint
